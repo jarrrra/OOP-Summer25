@@ -9,6 +9,5 @@ class Person:
     def myfunc(self):
         print("Hello my name is " + self.name)
 
-p1 = Person("Yaraslava Bianko", 18)
-print(p1)
-p1.myfunc()
+# change it to print your name
+print("Hello, I am Yaraslava Bianko")

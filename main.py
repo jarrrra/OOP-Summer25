@@ -8,6 +8,3 @@ class Person:
 
     def myfunc(self):
         print("Hello my name is " + self.name)
-
-# change it to print your name
-print("Hello, I am Yaraslava Bianko")

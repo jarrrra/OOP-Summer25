@@ -7,4 +7,4 @@ student1 = {
   'courses' : ['Math', 'Economics'] 
 }
 
-print(student1.first_name, ' ', student1.last_name, ' ', student1.index_number)
+print(student1['first_name'], ' ', student1['last_name'], ' ', student1['index_number'])

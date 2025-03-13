@@ -1,5 +1,5 @@
 def add_student(students, first_name, last_name, index_number, nationality, starting_date, courses):
-  students.append{'first_name' : first_name, 'last_name' : last_name, 'index_number' : index_number, 'nationality' : nationality, 'starting_date' : starting_date,'courses' : courses})
+  students.append({'first_name' : first_name, 'last_name' : last_name, 'index_number' : index_number, 'nationality' : nationality, 'starting_date' : starting_date,'courses' : courses})
 
 def get_students(students):
   for student in students[:-1]:
